@@ -1,0 +1,10 @@
+.Page404__section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+.Page404__img{
+    width: 330px;
+}
