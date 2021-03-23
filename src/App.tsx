@@ -4,6 +4,8 @@ import './App.css';
 import { Page404 } from './pages/page404/Page404';
 import { Header } from './components/header/Header';
 import { Home } from './pages/home/Home';
+import { Characters } from './pages/characters/Characters';
+import { PersonaPage } from './pages/persona/Persona';
 
 function App() {
   return (
@@ -12,6 +14,12 @@ function App() {
       <Switch>
         <Route exact path="/">
           <Home/>
+        </Route>
+        <Route path="/characters">
+            <Characters/>
+        </Route>
+        <Route path="/persona/:id">
+            <PersonaPage/>
         </Route>
         <Route>
           <Page404/>          

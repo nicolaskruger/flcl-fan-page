@@ -1,0 +1,13 @@
+.persona__main{
+    padding-top: 20px;
+}
+.persona__section{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.persona__div{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
