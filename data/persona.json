@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "name":"Naota Nandaba",
+        "path":"naota",
+        "phase":"nothing exciting ever happens here everything is ordnary",
+        "description": "Naota Nandaba (ナンダバ・ナオ太?, Nandaba Naota), or Ta-kun (タッくん, Takkun) as he is called by Mamimi and Haruko, is the protagonist of the first season of FLCL, obsessed with appearing mature and nonchalant. He idolizes his older brother, Tasuku, who represents for Naota what it means to be an \"adult.\" He also has a crush on both Mamimi and Haruko during the course of the season."
+    },
+    {
+        "id":2,
+        "name":"Mamimi Samejima",
+        "path":"mamimi",
+        "phase":"never know best",
+        "description": "Mamimi Samejima (サメジマ・マミ美?, Samejima Mamimi) is a high school truant and Tasuku's ex-girlfriend. She is a lonely and depressed chain-smoker, and a pyromaniac. She adopts several pets and names them all \"Ta-kun\" (タッくん, Takkun) as a replacement for Naota's brother, including Naota himself, but later grows uninterested when Naota exhibits independence. Her name is written in Katakana in the manga panel scene, which suggests she is not entirely Japanese."
+    },
+    {
+        "id":3,
+        "name":"Haruko Haruhara",
+        "path":"haruko",
+        "phase":"I'm an alian",
+        "description": "Haruko Haruhara (ハルハラ・ハル子?, Haruhara Haruko) is a central character of the FLCL series, Mabase's newest resident, and an extraterrestrial investigator for the Galactic Space Police Brotherhood. She becomes the Nandaba household's maid while working to find Atomsk, the most powerful space pirate in the galaxy. She leaves Earth in FLCLimax, but returns as a teacher in Mabase in FLCL Progressive. In FLCL Alternative, she's back on Earth again tackling a whole host of new Medical Mechanica problems."
+    }
+]
